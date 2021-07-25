@@ -6,12 +6,12 @@ require "open_jp_reverse_geocoder/version"
 Gem::Specification.new do |spec|
   spec.name          = "open_jp_reverse_geocoder"
   spec.version       = OpenJpReverseGeocoder::VERSION
-  spec.authors       = ["HirakuEndo"]
-  spec.email         = ["72059651+HirakuEndo@users.noreply.github.com"]
+  spec.authors       = ["0Cuopen"]
+  spec.email         = ["72059651+0Cuopen@users.noreply.github.com"]
 
   spec.summary       = %q{this is japanese reverse geocoder.}
   spec.description   = %q{answer the address from latitude and longitude.}
-  spec.homepage      = "https://github.com/HirakuEndo/open_jp_reverse_geocoder"
+  spec.homepage      = "https://github.com/0Cuopen/open_jp_reverse_geocoder"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
