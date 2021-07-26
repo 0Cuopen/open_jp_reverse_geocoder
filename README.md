@@ -32,7 +32,9 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-irb(main) :001:0> OpenJpReverseGeocoder.search(35.6809, 139.7673)
+irb(main) :001:0> require 'open_jp_reverse_geocoder'
+=> true
+irb(main) :002:0> OpenJpReverseGeocoder.search(35.6809, 139.7673)
 => "東京都　千代田区　丸の内一丁目"
 ```
 ## Development
